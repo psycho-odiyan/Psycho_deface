@@ -19,7 +19,7 @@ cat <<LOGIN>index.html
 <script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=">
 </script>
 </head>
-<body background="http://i50.tinypic.com/154x5s1.gif" title="INDIAN HACKERS" bgcolor="black">
+<body background="https://i.ibb.co/6tyJx0m/Pics-Art-06-05-06-41-44.png" title="INDIAN HACKERS" bgcolor="black">
 <center>
 <img src="https://i.ibb.co/6tyJx0m/Pics-Art-06-05-06-41-44.png" tabindex="" width="250" height="250">
 <title>Hacked By CYBER INTTELIGENS AGENCY</title>
@@ -80,7 +80,7 @@ cat <<LOGIN>index.html
 </marquee> 
 <center> 
 <marquee scrollamount="10"><font color="red">
-<p>| R45H4N 9H1L199 | SURYA | MR BLACK | 95YCH0_0D1Y4N | BL4CK_V3N0M | DX | DK | NEO | DARE DEVIL | 5H4D0W_H4CK36 | SN | DARK WALKER  | SLAYER -07 | KING OF NOOBS | M B  HACKER | JACKY⁩ | AGENT 007⁩ | SATANIC BOMBER | DEPRESSED SHADOW⁩ |</marquee> </font></center> <marquee direction="right" scrollamount="50"><font color="green" size="2" style="text-shadow: 0 0 0.7em red, 0 0 0.7em red">"="="="="="="="="="="="="="="="="="="="="="="=" </font></marquee></font></div><script type="text/rocketscript">/*<![CDATA[*/new TypingText(document.getElementById("message"), 90, function(i){ var ar= new Array("_", " ", "_", " "); return "" +ar[i.length % ar.length]; });//Type out examples:TypingText.runAll();/*]]>*/</script><br></center><marquee scrollamount="30" behavior="alternate" width="100%"><font color="white">______________________________________</font> </marquee></b></font><b> <center><font size="1" color="lightblue"><marquee width="100%"><b><u>YOU CAN'T FIND ME,.. YOU CAN'T HIDE ANYTHING,.. I KNOW EVERY SECRETS ABOUT YOU,.. YOU NEVER MATCH ME,.. YOU NEVER CATCH ME,.. BECAUSE I AM A................. HACKER</u>
+<p>| R45H4N 9H1L199 | SURYA | MR BLACK | 95YCH0_0D1Y4N | BL4CK_V3N0M | DX | DK | NEO | DARE DEVIL | 5H4D0W_H4CK36 | SN | DARK WALKER  | SLAYER -07 | KING OF NOOBS | M B  HACKER | JACKY⁩ | AGENT 007⁩ | SATANIC BOMBER | DEPRESSED SHADOW⁩ | CYBER DANICK |</marquee> </font></center> <marquee direction="right" scrollamount="50"><font color="green" size="2" style="text-shadow: 0 0 0.7em red, 0 0 0.7em red">"="="="="="="="="="="="="="="="="="="="="="="=" </font></marquee></font></div><script type="text/rocketscript">/*<![CDATA[*/new TypingText(document.getElementById("message"), 90, function(i){ var ar= new Array("_", " ", "_", " "); return "" +ar[i.length % ar.length]; });//Type out examples:TypingText.runAll();/*]]>*/</script><br></center><marquee scrollamount="30" behavior="alternate" width="100%"><font color="white">______________________________________</font> </marquee></b></font><b> <center><font size="1" color="lightblue"><marquee width="100%"><b><u>YOU CAN'T FIND ME,.. YOU CAN'T HIDE ANYTHING,.. I KNOW EVERY SECRETS ABOUT YOU,.. YOU NEVER MATCH ME,.. YOU NEVER CATCH ME,.. BECAUSE I AM A................. HACKER</u>
 </b>
 </marquee>
 </font>
